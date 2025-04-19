@@ -1,0 +1,4 @@
+# l10n.yaml
+arb-dir: lib/l10n # المجلد الذي يحتوي على ملفات .arb
+template-arb-file: app_en.arb # ملف اللغة الإنجليزية كقالب
+output-localization-file: app_localizations.dart # اسم ملف Dart الذي سيتم إنشاؤه
