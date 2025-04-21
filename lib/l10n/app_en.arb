@@ -114,7 +114,7 @@
 
   "explore": "Explore",
   "@explore": {},
-  "search": "Search for places",
+  "search": "Search for Estates",
   "@search": {},
   "wishlists": "Wishlists",
   "@wishlists": {},
@@ -229,5 +229,14 @@
   "confirm_and_pay": "Confirm & Pay",
   "@confirm_and_pay": {},
   "confirm_reservation": "Confirm reservation",
-  "@confirm_reservation": {}
+  "@confirm_reservation": {},
+
+  "main":"Main",
+  "@main": {},
+  "estates":"Estates",
+  "@estates": {},
+  "apartments":"Apartments",
+  "@apartments": {},
+  "cars":"Cars",
+  "@cars": {}
 }
