@@ -29,8 +29,6 @@ class _MessagesPageState extends State<MessagesPage>
   @override
   void didChangeDependencies() {
     super.didChangeDependencies();
-    // Get localizations safely here
-    final localizations = AppLocalizations.of(context)!;
     // Define tab titles using localizations
     final newTabs = ['Chats', 'Calls'];
 
