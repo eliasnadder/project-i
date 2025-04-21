@@ -112,7 +112,7 @@
 
   "explore": "استكشف",
   "@explore": {},
-  "search": "ابحث عن أماكن",
+  "search": "ابحث عن عقارات",
   "@search": {},
   "wishlists": "المفضلة",
   "@wishlists": {},
@@ -231,5 +231,15 @@
   "confirm_and_pay":"التأكيد والدفع",
   "@confirm_and_pay": {},
   "confirm_reservation":"تأكيد الحجز",
-  "@confirm_reservation": {}
+  "@confirm_reservation": {},
+
+  "main":"الرئيسية",
+  "@main": {},
+  "estates":"عقارات",
+  "@estates": {},
+  "apartments":"شقق",
+  "@apartments": {},
+  "cars":"سيارات",
+  "@cars": {}
+
 }
